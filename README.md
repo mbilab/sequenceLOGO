@@ -1,8 +1,8 @@
 # Sequence LOGO
 
-"""
+```
 Since the formats from different dataset are different, it need differents script to be done.
-"""
+```
 
 ## Related files
 * `parse_signalp_euk.py`
@@ -34,9 +34,9 @@ Since the formats from different dataset are different, it need differents scrip
 
 
 ## `Makefile`
-"""
+```
 For convencienc, provide a Makefile
-"""
+```
 Usage: `make TARGET`
 TARGET: Start with the specific dataset, a `.`, the CATEGORY is coming after, if negative samples is expected, a `.-` is coming after
 	eg.
