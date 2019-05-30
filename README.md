@@ -54,11 +54,16 @@ The script automatically converts every data into sequenceLOGO
 
 ### online service
 http://weblogo.threeplusone.com/create.cgi, would be look like this
+
 ![](images/1.PNG)
+
 After
 1. Select fasta file
 2. Adjust expected scheme
 3. Click to gernerate
+
 ![](images/2.PNG)
-supposed to get a sequence LOGO like this
+
+supposed to get a sequence LOGO like this.
+
 ![](images/EUK,Signalp,positive_samples.png)
