@@ -41,3 +41,15 @@ Usage: `make TARGET`
 TARGET: Start with the specific dataset, a `.`, the CATEGORY is coming after, if negative samples is expected, a `.-` is coming after
 	eg.
 		`make spds.gram-`: Parsing the positive samples of Gram-negative from the SPDS17 dataset
+		
+## WebLogo
+http://weblogo.threeplusone.com/
+The website provides online and offline tools to produce sequence logo.
+### `install`
+```
+sudo easy_install weblogo
+```
+### `weblogo.py`
+The script automatically converts every data into sequenceLOGO
+
+### online service
