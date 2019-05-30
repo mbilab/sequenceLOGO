@@ -62,7 +62,7 @@ After
 2. Adjust expected scheme
 3. Click to gernerate
 
-![](images/2.PNG)
+![](images/2.png)
 
 supposed to get a sequence LOGO like this.
 
